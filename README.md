@@ -1,1 +1,1 @@
-# auvi-hd-device
+# auvi-hp-device
